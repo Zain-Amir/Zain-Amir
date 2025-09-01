@@ -227,34 +227,7 @@ const currentGoals = {
 
 ---
 
-## <img src="https://media.giphy.com/media/nbvFVPiEiJH6JOGIok/giphy.gif" width="30" height="30"> Fun Facts
 
-<div align="center">
-  
-- 🔭 I'm currently working on **AI-powered automation platforms**
-- 🌱 I'm learning **Advanced Cloud Architecture** and **MLOps**
-- 👯 I'm looking to collaborate on **Open source AI projects**
-- 💬 Ask me about **React, AI integrations, and automation workflows**
-- ⚡ Fun fact: **I built a Quran translation app in just 8 hours!**
-- 🎯 2025 Goal: **Contribute to 50+ open source projects**
-
-</div>
-
----
-
-<div align="center">
-  
-### 💭 Quote of the Day
-  
-*"The best error message is the one that never shows up."* - Thomas Fuchs
-
----
-
-### 🎵 Coding Soundtrack
-  
-[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31k6uxhpy5g4pdhlc7mbqkqvly2q&unique=true)](https://open.spotify.com/user/31k6uxhpy5g4pdhlc7mbqkqvly2q)
-
----
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
