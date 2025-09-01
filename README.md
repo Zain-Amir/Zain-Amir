@@ -18,39 +18,19 @@
 ### 🛠️ Tech Stack & Tools  
 
 **💻 Web & Mobile Development**  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
-![NextJS](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)  
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)  
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)  
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)  
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)  
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white)  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![NextJS](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)  
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white) ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white)  
 
 **🤖 AI & Cloud**  
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)  
-![LangChain](https://img.shields.io/badge/LangChain-0066FF?style=flat)  
-![RAG Models](https://img.shields.io/badge/RAG-Models-red?style=flat)  
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google)  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)  
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)  
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-0066FF?style=flat) ![RAG Models](https://img.shields.io/badge/RAG-Models-red?style=flat) ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google)  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)  
 
 **📦 CMS & Platforms**  
-![Sanity](https://img.shields.io/badge/Sanity-EF3939?style=flat&logo=sanity&logoColor=white)  
-![Strapi](https://img.shields.io/badge/Strapi-4945FF?style=flat&logo=strapi&logoColor=white)  
-![Directus](https://img.shields.io/badge/Directus-263238?style=flat&logo=directus&logoColor=white)  
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)  
-![Headless CMS](https://img.shields.io/badge/Headless-CMS-FF6F00?style=flat)  
-![GoHighLevel](https://img.shields.io/badge/GoHighLevel-1E90FF?style=flat)  
+![Sanity](https://img.shields.io/badge/Sanity-EF3939?style=flat&logo=sanity&logoColor=white) ![Strapi](https://img.shields.io/badge/Strapi-4945FF?style=flat&logo=strapi&logoColor=white) ![Directus](https://img.shields.io/badge/Directus-263238?style=flat&logo=directus&logoColor=white)  
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white) ![Headless CMS](https://img.shields.io/badge/Headless-CMS-FF6F00?style=flat) ![GoHighLevel](https://img.shields.io/badge/GoHighLevel-1E90FF?style=flat)  
 
 **⚡ Automations**  
-![n8n](https://img.shields.io/badge/n8n-F05A28?style=flat&logo=n8n&logoColor=white)  
-![Make](https://img.shields.io/badge/Make.com-2F8CBB?style=flat)  
-![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat&logo=zapier&logoColor=white)  
-![Automations](https://img.shields.io/badge/Workflow-Automation-9C27B0?style=flat)  
+![n8n](https://img.shields.io/badge/n8n-F05A28?style=flat&logo=n8n&logoColor=white) ![Make](https://img.shields.io/badge/Make.com-2F8CBB?style=flat) ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat&logo=zapier&logoColor=white) ![Workflow Automation](https://img.shields.io/badge/Automation-9C27B0?style=flat)  
 
 ---
 
@@ -75,9 +55,14 @@
 
 ### 📊 GitHub Stats  
 
-![Zain's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zain-Amir&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zain-Amir&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=Zain-Amir&theme=tokyonight&hide_border=true)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zain-Amir&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zain-Amir&layout=compact&theme=tokyonight" height="160" />
+</p>  
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Zain-Amir&theme=tokyonight&hide_border=true" height="160" />
+</p>  
 
 ---
 
@@ -89,5 +74,8 @@
 
 ---
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80">  
+<p align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
+</p>  
+
 ✨ *“Code is like humor. When you have to explain it, it’s bad.”*  
