@@ -2,9 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF5733&width=600&lines=Software+Engineer+%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%9A%80;AI+%26+Automation+Enthusiast+%F0%9F%A4%96;Always+Building+Cool+Things+%F0%9F%8C%9F)](https://git.io/typing-svg)  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zain%20Amir-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/zain-amir-b23888a8)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-ebridge.tech-4CAF50?style=for-the-badge&logo=google-chrome)](https://www.ebridge.tech/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Zain--Amir-black?style=for-the-badge&logo=github)](https://github.com/Zain-Amir)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zain%20Amir-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/zain-amir-b23888a8)  [![Portfolio](https://img.shields.io/badge/Portfolio-ebridge.tech-4CAF50?style=for-the-badge&logo=google-chrome)](https://www.ebridge.tech/)  [![GitHub](https://img.shields.io/badge/GitHub-Zain--Amir-black?style=for-the-badge&logo=github)](https://github.com/Zain-Amir)  
 
 ---
 
