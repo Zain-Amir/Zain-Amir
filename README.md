@@ -14,7 +14,11 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30"> About Me
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Zain Amir" width="300" height="300" style="border-radius: 50%; border: 3px solid #58A6FF;" src="https://github.com/Zain-Amir.png">
+
+<!-- Alternative way to add your picture:
+<img align="right" alt="Zain Amir" width="300" height="300" style="border-radius: 50%; border: 3px solid #58A6FF;" src="https://avatars.githubusercontent.com/u/YOUR_GITHUB_USER_ID?v=4">
+-->
 
 ```typescript
 const zain = {
@@ -33,9 +37,8 @@ console.log("Building tomorrow's solutions today! 🚀");
 ### 🌐 Connect With Me
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/zain-amir-b23888a8)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF5722)](https://www.ebridge.tech/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000)](https://github.com/Zain-Amir)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:your.email@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:m.zain.amir.92@gmail.com)
 
 </div>
 
@@ -257,8 +260,7 @@ const currentGoals = {
 
 ### 🚀 Let's Build Something Amazing Together!
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-FF5722?style=for-the-badge)](https://www.ebridge.tech/)
-[![Email](https://img.shields.io/badge/📧_Email-Let's_Connect-D14836?style=for-the-badge)](mailto:your.email@gmail.com)
+[![Email](https://img.shields.io/badge/📧_Email-Let's_Connect-D14836?style=for-the-badge)](mailto:m.zain.amir.92@gmail.com)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Zain-Amir.Zain-Amir)
 
